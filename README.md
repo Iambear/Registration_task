@@ -1,7 +1,8 @@
 # Registration_task
 Simple registration-login sckript.
 
-Registration form that allows user to sign up to site. 
+Registration form that allows user to sign up to site.
+
 After successful registration user will be signed in automatically.
 System will display current user email, name and ‘logout’ link.
 User can log out by clicking on link.
