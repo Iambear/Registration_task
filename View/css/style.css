@@ -1,0 +1,31 @@
+body
+{
+
+}
+td,th
+{
+    padding: 10px;
+
+}
+td
+{
+    border: solid gray 1px;
+    border-top: none;
+    background-color: aliceblue;
+}
+th
+{
+    color: whitesmoke;
+
+    background-color: gray;
+}
+table
+{
+    margin: auto;
+}
+th.error
+{
+    background-color: red;
+    color: whitesmoke;
+}
+
